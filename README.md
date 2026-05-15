@@ -22,7 +22,7 @@ Specialized in **Next.js**, **React**, and **TypeScript**, with a strong focus o
 
 ## 📌 Featured Project
 
-### [payload-next-starter](https://github.com/otamiotto/payload-next-starter)
+### [payload-next-template](https://github.com/otamiotto/payload-next-template)
 Production-ready website template built with Payload CMS + Next.js (App Router) + TypeScript.
 Designed for marketing sites, institutional platforms, and content-driven projects.
 Docker-ready, SEO-optimized, with optional i18n support.
