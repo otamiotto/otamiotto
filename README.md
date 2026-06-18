@@ -34,8 +34,5 @@ Docker-ready, SEO-optimized, with optional i18n support.
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-otamiotto-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/otamiotto/)
-[![Email](https://img.shields.io/badge/Email-otaviomsoldatelli@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:otaviomsoldatelli@gmail.com)
 
----
 
-*Currently open to remote opportunities as a Senior Front-End or Fullstack Developer, preferably with international teams.*
