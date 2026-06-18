@@ -20,18 +20,7 @@ Specialized in **Next.js**, **React**, and **TypeScript**, with a strong focus o
 
 ---
 
-## 📌 Featured Project
-
-### [payload-next-template](https://github.com/otamiotto/payload-next-template)
-Production-ready website template built with Payload CMS + Next.js (App Router) + TypeScript.
-Designed for marketing sites, institutional platforms, and content-driven projects.
-Docker-ready, SEO-optimized, with optional i18n support.
-
-**[→ Live Demo](http://payload.cerbo.cc/)**
-
----
-
-## 📫 Get in touch
+## 🤝 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-otamiotto-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/otamiotto/)
 
